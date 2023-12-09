@@ -1,15 +1,72 @@
 [
-    {"name": "Deep South Devs", "url": "https://www.meetup.com/deepsouthdevs/", "type": "Recurring Meetups"},
-    {"name": "Front-end Development South Africa (FEDSA)", "url": "https://www.meetup.com/fedsa-community/", "type": "Recurring Meetups"},
-    {"name": "Indie Hackers Cape Town", "url": "https://www.meetup.com/indie-hackers-cape-town/", "type": "Recurring Meetups"},
-    {"name": "Lean (Startup) Coffee", "url": "https://www.meetup.com/lean-startup-coffee/", "type": "Recurring Meetups"},
-    {"name": "PHP South Africa", "url": "https://phpsouthafrica.org/", "type": "Recurring Meetups"},
-    {"name": "Tech Leadership", "url": "https://www.meetup.com/tech-leadership-meetup/", "type": "Recurring Meetups"},
-    {"name": "Cape Town AWS Meetup", "url": "https://www.meetup.com/cape-town-aws/", "type": "Recurring Meetups"},
-    {"name": "Cape Town Python Users' Group (CTPUG)", "url": "https://www.meetup.com/cape-town-python-users-group-ctpug/", "type": "Recurring Meetups"},
-    {"name": "DataConf", "url": "https://www.dataconf.co.za/", "type": "Annual Conferences"},
-    {"name": "DevConf", "url": "https://www.devconf.co.za/", "type": "Annual Conferences"},
-    {"name": "PyconZA", "url": "https://za.pycon.org/", "type": "Annual Conferences"},
-    {"name": "UX SA", "url": "https://uxsouthafrica.com/", "type": "Annual Conferences"},
-    {"name": "ServerlessDays Cape Town", "url": "https://capetown.serverlessdays.io/", "type": "Annual Conferences"}
+  {
+    "name": "Deep South Devs",
+    "url": "https://www.meetup.com/deepsouthdevs/",
+    "type": "Recurring Meetups"
+  },
+  {
+    "name": "Front-end Development South Africa (FEDSA)",
+    "url": "https://www.meetup.com/fedsa-community/",
+    "type": "Recurring Meetups"
+  },
+  {
+    "name": "Indie Hackers Cape Town",
+    "url": "https://www.meetup.com/indie-hackers-cape-town/",
+    "type": "Recurring Meetups"
+  },
+  {
+    "name": "Lean (Startup) Coffee",
+    "url": "https://www.meetup.com/lean-startup-coffee/",
+    "type": "Recurring Meetups"
+  },
+  {
+    "name": "PHP South Africa",
+    "url": "https://phpsouthafrica.org/",
+    "type": "Recurring Meetups",
+    "description": "This meetup is for any PHP developers interested in discussing the latest trends in PHP development, popular PHP frameworks and their own work."
+  },
+  {
+    "name": "Tech Leadership",
+    "url": "https://www.meetup.com/tech-leadership-meetup/",
+    "type": "Recurring Meetups"
+  },
+  {
+    "name": "Cape Town AWS Meetup",
+    "url": "https://www.meetup.com/cape-town-aws/",
+    "type": "Recurring Meetups",
+    "description": "Community driven monthly meetup to discuss various aspects & services of Amazon Web Services. If you are curious about what AWS is, or want to start using it, or a seasoned veteran, join us for the monthly discussion around all things AWS."
+  },
+  {
+    "name": "Cape Town Python Users' Group (CTPUG)",
+    "url": "https://www.meetup.com/cape-town-python-users-group-ctpug/",
+    "type": "Recurring Meetups",
+    "description": "We hold regular meetings to discuss various aspects of python - interesting modules and projects, recent developments and so forth."
+  },
+  {
+    "name": "DataConf",
+    "url": "https://www.dataconf.co.za/",
+    "type": "Annual Conferences"
+  },
+  {
+    "name": "DevConf",
+    "url": "https://www.devconf.co.za/",
+    "type": "Annual Conferences", 
+    "description": "DevConf is a community-driven, professional software developer focused, one-day conference hosted annually."
+  },
+  {
+    "name": "PyconZA",
+    "url": "https://za.pycon.org/",
+    "type": "Annual Conferences"
+  },
+  {
+    "name": "UX SA",
+    "url": "https://uxsouthafrica.com/",
+    "type": "Annual Conferences",
+    "description": "UX South Africa is an annual conference that explores relevant topics impacting the industry."
+  },
+  {
+    "name": "ServerlessDays Cape Town",
+    "url": "https://capetown.serverlessdays.io/",
+    "type": "Annual Conferences"
+  }
 ]
