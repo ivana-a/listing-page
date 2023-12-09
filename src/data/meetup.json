@@ -2,22 +2,25 @@
   {
     "name": "Deep South Devs",
     "url": "https://www.meetup.com/deepsouthdevs/",
-    "type": "Recurring Meetups"
+    "type": "Recurring Meetups",
+    "description": "It serves as an administrative umbrella for various types of projects that advance the sharing of knowledge between practitioner and aspiring practitioner within the industry."
   },
   {
     "name": "Front-end Development South Africa (FEDSA)",
     "url": "https://www.meetup.com/fedsa-community/",
-    "type": "Recurring Meetups"
+    "type": "Recurring Meetups",
+    "description": "A community of software devs growing together, from the south peninsula and beyond."
   },
   {
     "name": "Indie Hackers Cape Town",
     "url": "https://www.meetup.com/indie-hackers-cape-town/",
-    "type": "Recurring Meetups"
+    "type": "Recurring Meetups",
   },
   {
     "name": "Lean (Startup) Coffee",
     "url": "https://www.meetup.com/lean-startup-coffee/",
-    "type": "Recurring Meetups"
+    "type": "Recurring Meetups",
+    "description": "For people working in startups, lean (startup) coffee is a weekly 1-hour coffee that runs a mash-up of leancoffee.org with theleanstartup.com."
   },
   {
     "name": "PHP South Africa",
